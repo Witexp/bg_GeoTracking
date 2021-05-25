@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/res/merged/release/xml/authenticator.xml",
+        "source": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/res/merged/release/xml/rn_dev_preferences.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/9510edf6b1b77ee7a8c89e57d847ebda/jetified-react-native-0.63.2/res/xml/rn_dev_preferences.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/lib/build/intermediates/res/merged/release/xml/syncadapter.xml",
+        "source": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/lib/src/main/res/xml/syncadapter.xml"
+    }
+]

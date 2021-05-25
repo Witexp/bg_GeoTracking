@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/vit/reps/fkr_mp/node_modules/@mauron85/react-native-background-geolocation/android/common/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/vit/.gradle/caches/transforms-2/files-2.1/461673f209938a01e2ee4ab6f60082d6/appcompat-1.0.0/res/anim/abc_fade_in.xml"
+    }
+]
